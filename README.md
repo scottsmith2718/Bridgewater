@@ -1,0 +1,2 @@
+This program takes in a payout matrix then simulates 100 agents playing "Prisoners Dilemma" Games against one another, evolving and improving strategies over 10000 iterations. It outputs a CSV file with results that can be uploaded to the "Results Tester" Spreadsheet. 
+After the simulation is run, certain countries strategies can be accessed by inputting the iteration (0-10000) and the rank (0-99)
